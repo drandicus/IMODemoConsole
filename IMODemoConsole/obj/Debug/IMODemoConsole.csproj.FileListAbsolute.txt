@@ -1,0 +1,9 @@
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\IMODemoConsole.exe.config
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\IMODemoConsole.exe
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\IMODemoConsole.pdb
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\obj\Debug\IMODemoConsole.csprojResolveAssemblyReference.cache
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\obj\Debug\IMODemoConsole.exe
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\obj\Debug\IMODemoConsole.pdb
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\another_one_bites_the_dust.txt
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\hello.txt
+\\ad.uillinois.edu\engr\instructional\deveras2\documents\Visual Studio 2015\Projects\IMODemoConsole\IMODemoConsole\bin\Debug\night_moves.txt
